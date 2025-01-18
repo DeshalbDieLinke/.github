@@ -5,5 +5,5 @@ Hier findet ihr die Repos für die Open-Source Projekte für die Webseite sowie 
 
 \#DeshalbDieLinke
 [Webseite](https://www.deshalbdielinke.de)
-[Twitter](https://x.com/DDL_2025)
+[Twitter](https://x.com/DeshalbDieLinke)
 [Bluesky](https://bsky.app/profile/deshalbdielinke.de)
